@@ -1,6 +1,6 @@
 # Guess Number Game
 
-The "Guess the Number" game in JavaScript involves generating a random number within a defined range, typically from 1 to 20. The player then attempts to guess the number, with each guess triggering feedback, such as "Too High" or "Too Low," until the correct number is found. JavaScript functions handle the game logic, random number generation, and feedback display, making this game an excellent beginner project to practice loops, conditionals, and DOM manipulation in JavaScript.
+The Furniture Shop is a web-based application that allows users to browse, select, and purchase furniture items online. The project is designed to provide a smooth and interactive shopping experience, with features like a product catalog, shopping cart, and user authentication. This project is a great way to practice front-end and back-end integration, responsive design, and interactive UI development.
 
 ## Features
 
